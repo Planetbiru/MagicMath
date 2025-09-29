@@ -21,3 +21,26 @@ This repository contains a collection of PHP classes and functions to perform va
     ```
     This command will download all the required packages and generate the `vendor/autoload.php` file.
 
+
+## Using MagicMath
+
+To using MagicMath via composer
+
+### Installation
+
+```bash
+composer require planetbiru/magic-math
+```
+
+
+### Update
+
+```bash
+composer update planetbiru/magic-math
+```
+
+### Uninstallation
+
+```bash
+composer remove planetbiru/magic-math
+```
